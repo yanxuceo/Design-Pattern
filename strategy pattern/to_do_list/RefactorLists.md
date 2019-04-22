@@ -11,3 +11,7 @@
   - separate headers and sources
   - adding CMakeLists.txt
  
+- [ ] C++ 11 
+  - smart pointer for pointers to fly and quack method
+  - overwrite and final? to check and understand what it means
+  - initialization, uniform vs. direct
