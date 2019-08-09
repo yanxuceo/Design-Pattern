@@ -17,3 +17,7 @@ Strategy defines a family of algorithms, encapsulates each one, and makes them i
 *Example*:
 This demo refers to this blog [CSDN Blog](https://blog.csdn.net/lovelion/article/details/7818983), which is about to design a Cinema ticketing system. In this scenario, the ticket price could vary depending on the audience type, e.g children, student or VIP. 
 
+
+## Template Method Pattern
+
+Define the skeleton of an algorithm in an operation, deferring some steps to subclasses. Template Method lets subclasses redefine certain steps of an algorithm without changing the algorithm's structure.
